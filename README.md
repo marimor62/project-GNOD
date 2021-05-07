@@ -35,3 +35,8 @@ _Be open minded about this process: we are agile, and that means that we define 
 _Lots of luck and strength for this first week with us!_
 
 _-Jane_
+
+
+
+# Objectives
+Build a music recommender using web scraping and spotify APIs and using the KMeans method to assign a cluster to each song. 
